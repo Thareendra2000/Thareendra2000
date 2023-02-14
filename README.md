@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thareendra Tennakoon</h1>
-<h3 align="center">As a software engineering undergraduate, I am learning how to design, develop and maintain software. My goal is to be able to create efficient and effective software solutions for a variety of industries and applications.</h3>
+<h3 align="center">As a Software Engineering undergraduate, I am learning how to design, develop and maintain software. My goal is to be able to create efficient and effective software solutions for a variety of industries and applications.</h3>
 
 <p align="left"> <a href="https://twitter.com/t_thareendra" target="blank"><img src="https://img.shields.io/twitter/follow/t_thareendra?logo=twitter&style=for-the-badge" alt="t_thareendra" /></a> </p>
 
