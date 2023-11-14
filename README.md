@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thareendra Tennakoon</h1>
 <p align="center">As a Software Engineering undergraduate, I am learning how to design, develop and maintain software. My goal is to be able to create efficient and effective software solutions for a variety of industries and applications.</p>
 
-<p align="left"> <a href="https://twitter.com/t_thareendra" target="blank"><img src="https://img.shields.io/twitter/follow/t_thareendra?logo=twitter&style=for-the-badge" alt="t_thareendra" /></a> </p>
-
-- 🌱 I’m currently learning **Dart, Flutter, MERN**
+- 🌱 I’m currently learning **Typescript, ReactNative, Graphql**
 
 - 📫 How to reach me **thareendra2000@gmail.com**
 
