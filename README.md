@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thareendra Tennakoon</h1>
 <p align="center">As a Software Engineering undergraduate, I am learning how to design, develop and maintain software. My goal is to be able to create efficient and effective software solutions for a variety of industries and applications.</p>
 
-- 🌱 I’m currently learning **Typescript, ReactNative, Graphql**
+- 🌱 I’m currently learning **Typescript, Flutter, Graphql**
 
 - 📫 How to reach me **thareendra2000@gmail.com**
 
